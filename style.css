@@ -31,6 +31,7 @@ h1{
 }
 .First img{
     width: 80%;
+    padding-right: 80%;
 }
 .link_button{
     text-decoration: none;
