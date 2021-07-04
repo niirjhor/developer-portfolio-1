@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: black;
+}
+.Header{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.First{
+    width: 50%;
+}
+.first img{
+    width: 100%;
+}
